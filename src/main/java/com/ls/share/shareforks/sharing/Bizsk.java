@@ -11,6 +11,6 @@ package com.ls.share.shareforks.sharing;
 public class Bizsk {
     public static void main(String[] args) {
         System.out.println("he咯都是来的来的");
-        System.out.println("的肯定快点快点");
+        System.out.println("的肯定快0000点快点");
     }
 }
