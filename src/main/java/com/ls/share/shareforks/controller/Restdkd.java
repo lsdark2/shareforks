@@ -14,5 +14,6 @@ import org.springframework.stereotype.Controller;
 public class Restdkd {
     public static void main(String[] args) {
         System.out.println("d,dld");
+        System.out.println("的肯定快点快点");
     }
 }
